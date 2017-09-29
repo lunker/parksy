@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheKidsTimetable.iml" filepath="$PROJECT_DIR$/.idea/modules/TheKidsTimetable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheKidsTimetable_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TheKidsTimetable_main.iml" group="TheKidsTimetable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheKidsTimetable_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TheKidsTimetable_test.iml" group="TheKidsTimetable" />
+    </modules>
+  </component>
+</project>
